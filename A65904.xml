@@ -1,0 +1,264 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A reproof from the Lord declared by the movings of his Spirit to certain professors, whose habitations is in and about Hull and Beverley, who take delight in approaching to God, and to know his wayes, as a people that did righteousness, and yet seeks to limit him, and stumbles at this light, in which the knowledge of his wayes is received: with an admonition to all to beware of the leaven of the Pharisees, which is hypocrisie, who for a pretence, make long prayers, whilest iniquity is regarded in the heart, and disobedience lived in, lest you receive greater damnation. As also, an invitation to all, who are groaping in the dark, to own the light in which the pearl is found, which gives strength against sin, and rest to the soul; published for the information of such as desire to know the truth, and would enter into the kingdom, were they not deceived by the sleights of men, who shut up the way, and will neither enter themselves, nor suffer those that would go on, that you may try all things, and hold fast tha</title>
+            <author>Whitehead, John, 1630-1696.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65904</idno>
+            <idno type="STC">Wing W1980</idno>
+            <idno type="STC">ESTC R214122</idno>
+            <idno type="EEBO-CITATION">99826336</idno>
+            <idno type="PROQUEST">99826336</idno>
+            <idno type="VID">30737</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65904)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30737)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1801:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A reproof from the Lord declared by the movings of his Spirit to certain professors, whose habitations is in and about Hull and Beverley, who take delight in approaching to God, and to know his wayes, as a people that did righteousness, and yet seeks to limit him, and stumbles at this light, in which the knowledge of his wayes is received: with an admonition to all to beware of the leaven of the Pharisees, which is hypocrisie, who for a pretence, make long prayers, whilest iniquity is regarded in the heart, and disobedience lived in, lest you receive greater damnation. As also, an invitation to all, who are groaping in the dark, to own the light in which the pearl is found, which gives strength against sin, and rest to the soul; published for the information of such as desire to know the truth, and would enter into the kingdom, were they not deceived by the sleights of men, who shut up the way, and will neither enter themselves, nor suffer those that would go on, that you may try all things, and hold fast tha</title>
+                  <author>Whitehead, John, 1630-1696.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Thomas Simmons, at the sign of the Bull and Mouth neer Aldersgate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works --  Early works to 1800.</term>
+               <term>Hull (England) --  History --  Early works to 1800.</term>
+               <term>Yorkshire (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:30737:1" rendition="simple:additions"/>
+            <p>A REPROOF FROM THE LORD: DECLARED By the Movings of his Spirit to certain Profeſſors, whoſe habitations is in and about <hi>Hull</hi> and <hi>Be<g ref="char:EOLhyphen"/>verley,</hi> who take delight in approaching to God, and to know his wayes, as a people that did Righteouſneſs, and yet ſeeks to limit him, and ſtumbles at his light, in which the knowledge of his wayes is received: With an admonition to all to beware of the Leaven of the Phariſees, which is hypocriſie, who for a pretence, make long Prayers, whileſt iniqui<g ref="char:EOLhyphen"/>ty is regarded in the heart, and diſobe<g ref="char:EOLhyphen"/>dience lived in, leſt you re<g ref="char:EOLhyphen"/>ceive greater Dam<g ref="char:EOLhyphen"/>nation.</p>
+            <p>
+               <hi>AS ALSO,</hi> AN INVITATION to all, who are groaping in the dark, to own the light in which the Pearl is found, which gives ſtrength againſt ſin, and reſt to the ſoul; Publiſhed for the information of ſuch as deſire to know the Truth, and would enter into the Kingdom, were they not deceived by the ſleights of men, who ſhut up the way, and will neither enter themſelves, nor ſuffer thoſe that would to go on, That you may try all things, and hold faſt that which is good.</p>
+            <p>By one that ſeeks not his own, but the good of your ſouls, called, <hi>Iohn VVhitehead.</hi>
+            </p>
+            <q>Hear ye, and give ear, be not proud; for the Lord hath ſpoken, &amp;c.
+<bibl>Jer. 13.14.</bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Thomas Simmons,</hi> at the ſign of the <hi>Bull</hi> and <hi>Mouth</hi> neer <hi>Alderſgate.</hi> 1656.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="2" facs="tcp:30737:2"/>
+            <head>
+               <hi>A</hi> Reproof <hi>from the</hi> Lord.</head>
+            <argument>
+               <p>
+                  <hi>THis enſuing Letter was</hi> I <hi>moved to write and ſend amongst you (who were met to gether at</hi> Haſſel <hi>upon the</hi> 31 <hi>day of the fifth moneth</hi> 1656.) <hi>in love to your ſouls, as a teſtimony against your deceits, which to your wiſdome may otherwiſe appear, to which eye I look not to be made manifeſt, knowing it perceives not the things of God; Therefore do</hi> I <hi>exhort all of you to whom it ſhall come, to read what follows, without any prejudice in the fear of the Lord, that your underſtandings may be opened, in the light, to ſee and know the minde of the Spirit which will give to each of you what is your portion.</hi>
+               </p>
+            </argument>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">F</seg>Riends,</salute>
+            </opener>
+            <p>conſider how you are puffed up in your know<g ref="char:EOLhyphen"/>ledge, and your hearts waxen fat, and your eyes blin<g ref="char:EOLhyphen"/>ded by the god of the world, and ears become dull of hearing, that you cannot ſavour the things of God, nor rejoyce in the truth, but accounts Jeſus Chriſt preached, (the light of the world, who in lightneth every man that cometh into the world) a fancie, and fooliſhneſs, or ſimpleneſs, to what you have attained, though few of you knows any thing of the fellowſhip of his ſufferings, power of his Reſurrection, or virtue of his Life made manifeſt in you, but have gotten the report and fame thereof to talk of, and in your prudence and compre<g ref="char:EOLhyphen"/>henſions are preſcribing a way, and ſeeking to limit the Holy One in it, witneſs your agreeing beforehand who ſhall ſpeak, and rejecting the truth in others, and taking your turns by an outward Order of habitation in ſuch a place, witneſs your own words, who ſaid, <hi>it is now Beverley turn;</hi> and alſo your agreeing before-hand on particular things to be prayed for, as by your own words plainly appeared, and going to prayer at the call of one another, though ſome of you acknowledged you had no freeneſs in ſpirit to it: All which is ſeen to be contrary to the doctrine of Chriſt,
+<milestone type="tcpmilestone" unit="unspecified" n="6"/> and practice of his Saints, who ſpake and prayed as the Spirit moved, and gave utterance, and knew not before-hand what they ſhould pray for, (as you do) but having received the firſt fruits of the Spirit, it helped their infirmities, and made interceſſion according to the will of God, with ſighings and groanings that could not be uttered, which ſpirit you have ſufficiently cleared your ſelves of, ſome of you ſaying that you want it, others that you cannot finde it, but prayes much of your ſelves, and ſlubbers over Gods ſacrifices, and knows not his mind, but are in much darkneſs and deadneſs, contradiction and ſtrife, and not being come to the u<g ref="char:EOLhyphen"/>nitie of the <hi>Body of Chriſt,</hi> imagines it to be like your ſelves, <hi>rent and divided,</hi> (as ſome of you ſaid) who <hi>contradicts one another,</hi> even you who profeſs to be the <hi>Mouth of the reſt,</hi> ſome of you ſaying, <hi>That you want the Spirit, and cannot finde it, but are in much darkneſs, others of you ſpeaking in behalf of the reſt, affirms, That you have it, and are Gods children, and does his work, which proves ſome of you at leaſt, to be Ly<g ref="char:EOLhyphen"/>ars: And notwithſtanding you are thus in confuſion and darkneſs, (as might be mention<g ref="char:EOLhyphen"/>ed in many other particulars) you are not aſhamed to ſpeak in deriſion and contempt of the Children of light, becauſe we all ſpeak the ſame things, and declares one truth, according
+<pb n="3" facs="tcp:30737:2"/>to the Apoſtles Doctrine, which truth is the ground of union, and ſtands a witneſs againſt all deceit, the declaring of which you have contemned, becauſe it came contrary to your wills and appointments, and doth not feed that which reacheth out to the tree of knowledge, which is diſobedient, and like the Athenians, cryed out for ſome new thing, and you would hear it, but accounted it babling, and a diſturbance, to declare that which was from the beginning, carping at the manner of words, and time of their delivery, though they vari<g ref="char:EOLhyphen"/>ed not from examples and rules in Scripture, which ſaith, Cry aloud,
+<note n="*" place="margin">
+                     <hi>Read Iſai<gap reason="illegible" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> Mat.</hi> 10.17 1 <hi>Kings</hi> 18 1 <hi>Cor.</hi> 13.3</note> ſpare not, and ſhew my people their ſins, and that which you have heard in the eare declare on the houſe<g ref="char:EOLhyphen"/>top, which you accounted a heynous thing, and the fruits of an unmeek ſpirit
+<note n="†" place="margin">
+                     <hi>Though <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> till three of <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> had ended, a fourth b<gap reason="illegible" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap> indirectly pray, whilſt <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> waited for Anſwer to thing propo<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLunhyphen"/>ed, whoſe <gap reason="illegible" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap>
+                        <g ref="char:EOLunhyphen"/>mulation proved as <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> was praying Mat.</hi> 6.7, 8 14. <hi>Phil.</hi> 4.5. 1 <hi>Theſſ.</hi> 5.2</note> ſaying, that I would make the Spirit by which I ſpake odious, by ſpeaking in the time of your (long) prayers, though the Scriptures ſay, If any thing be revealed to one that ſits by, let the firſt hold his peace; and read Elijah and Baalls Prophets, and you may ſee your ſelves as in a figure, and an example for speaking in the time of Prayer, and how like in effect your crying is to theirs, which the Prophets witneſſed againſt, and how far different both you and your Prayers is from Chriſts Doctrine, and the Saints practice, let his light in your conſciences judge, and your Heathen-like much ſpeaking in your Prayers, witneſs a<g ref="char:EOLhyphen"/>gainſt you, as alſo your breaking out into a confuſed uproar, many ſpeaking together to ſtop the declaring of Truth, and not rendring a moderate reaſon of your ſayings, contrary to the Apoſtles rule, Let your moderation be known unto all men, and try all things, and hold fast that which is good, which ye refuſed to do, and being lifted up in your knowledg, accounts it a needleſs thing to lay amongſt you the foundation of Repentance from dead works, though you be even found therein, as the light of Chriſt in all your conſciences will witneſs, which ſhews you your ſecret luſt, pride, and high-mindedneſs, covetouſneſs love, and conformity to this world, as alſo your respect of perſons, anger, and peeviſhneſs, with your falſe accuſing, deriding, fooliſh laughter, wantonneſs, and ſo forth, which dead works and your ſaying that you have not power againſt them, is a greater teſtimonie of your unbelief, and diſowning of Chriſt, then all your profeſſion of Faith in him, and talk<g ref="char:EOLhyphen"/>ing of his excellency in words can be for you, which profeſſion and fair ſaying is nothing but hypocriſie, whileſt you do not the things you ſay, and the hope you have in that nature is not ſure and ſtedfaſt, but muſt be cut off, and periſh, and you alſo, except you repent; and this ſhall you witneſs to be truth declared in plainneſs, when the worker of iniquity from Chriſt is forced to depart, and rewarded according to the deeds done in the Body, and thoſe onely who have done the Fathers will enters into the Kingdom.
+<note place="margin">
+                     <hi>Mat.</hi> 7.21, 23. <hi>Iohn</hi> 12.3<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> A warning may this be to all that mentions the name of the Lord Ieſus Chriſt, not any longer to deceive your ſelves with a vain hope that purifies not, neither let any deceive you with vain words, but believe in the light of the Lord Ieſus, and ſingly wait, that therein you may receive power for obedience to the Faith, and put away the evill of your doings, and the abhominations that are in your hearts, which ſhuts out your prayers, that they paſs not through, but you ask and receive not, deſire to have, and have not, (becauſe you ask amiſs, to conſume it on the luſt of your own wils, which is not ſubjected in the Croſs;)
+<note place="margin">
+                     <hi>Iam.</hi> 4.2, 3</note> and although there does a joy ariſe in ſome of your affections, at the uttering forth of words that makes mention of the thing you want, which joy for a time you may feed on; yet anon it withers and ſades away, and you are but where you were before, at a loſs in your ſelves, ſticking faſt in the mire and clay, and bondage,</hi> to the corruption and evil of your hearts, &amp; not believing in the light which opens the blinde eye, you know not where to finde the power which ſhould ſlay the enmity, and crucifie the fleſh with the affections and luſts,
+<pb n="4" facs="tcp:30737:3"/>but are ſtruggling and ſtriving by what you can do to enter, often pleading your actions before the Lord, and filling your mouths with Arguments to perſwade him to accept your indeavours and prayers, which are ſeen to be exacted labours, and a forced work performed in the ſtrength of the natural underſtanding and wiſdome, by vvhich you knovv not God, nor his minde, but have a zeal not accor<g ref="char:EOLhyphen"/>ding to knovvledge (from vvhich ariſeth many deceitfull vvorkings, as feigned cryings, and the like) in vvhich you call for fire from heaven, not knovving of vvhat ſpirit you are.</p>
+            <p>But the Lord who ſearcheth all hearts, and knows your intents, hath ſhut out your wiſdom from knowing him or his way; and to touch of the Tree of life you cannot come by all your climbing,
+<note place="margin">
+                  <hi>Cor.</hi> 1.20, 1.</note> turning and ſtriving; the flaming ſword being ſet to keep its way, you cannot paſs through to feed on it, whileſt you live in that nature and wiſdom wherein pride, ſtrife and every evil work lodgeth; but before you have a right to the tree of Life muſt become fools,
+<note place="margin">
+                  <hi>Gen.</hi> 3.24.</note> and caſt down your Crowns at the teet of Chriſt, who lighteth every man that comes into the world, and own his Witneſs,
+<note place="margin">
+                  <hi>Iohn.</hi> 1.9.</note> who hath kindled a burning under your glory, and teſtifies of your works that they be evil; in whoſe Light ſtand you ſtill, and you will ſee condemna<g ref="char:EOLhyphen"/>tion upon all your ovvn vvilling, and running, and acting in your ovvn ſtrength, as alſo upon all your vvickedneſs, and ſelf-righteouſneſs, vvhich are both abhomi<g ref="char:EOLhyphen"/>nation to God, and a profeſſion of faith, and talk of Chriſt and his Kingdome to come, vvill not ſerve to cover you that are found therein, and vvill not that the Lamb ſhal reign over you in ſpirit, that humbled himſelf to the Croſs, whoſe appearance you cannot own, nor the glory thereof, which is not the glory of this world, nor of the Princes of this world, which ſhall come to nought, but ſtands in righteouſneſs, judgment, purity, and in this world ſuffering, and reproaches, whipping, and impriſonment in Dungeons, and holes, to be numbred amongſt Tranſgreſſors, buffeted, ſtoned, ſpit upon, and accounted a Devil, a Deceiver, &amp;c. even by ſuch as have gotten the <hi>Scriptures</hi> (which teſtifies of him) to talk of,
+<note place="margin">
+                  <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ph.</hi> 1.20, 1, 22. <hi>Cor.</hi> 15.4, 25.</note> and yet in all theſe things the Lamb reigneth and ſhall reign till all rule and authori<g ref="char:EOLhyphen"/>ty be put under him, though I ſay his appearance and glory in this world can no more be owned by ſuch as look for an outward kingdom, power and dominion, and in the mean time lives in pride, faſhions and luſt of the world, then it could by the Jews, who looked for his appearance in an outward pomp, and for an outward re<g ref="char:EOLhyphen"/>ſtoration of their kingdom, &amp; when he appeared did not know him, nor the voices of their own Prophets,
+<note place="margin">
+                  <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cts</hi> 13.27</note> but fulfilled them in crucifying him, who was not born by the wil of man, nor appeared according to their expectation and thoughts of him; and how like your thoughts and expectations of his appearance are unto theirs let his Light in your conſciences judge, the which you may do well to take heed unto, untill he be manifeſt, who brings to light that which hath layen hid in darkneſs, and makes known the Councels of the heart, Then will you ceaſe from all ouward expectations of his coming;
+<note place="margin">
+                  <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u.</hi> 17.20, 1. <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>an.</hi> 2.23, <gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 5. <hi>Pet.</hi> 2.6, <gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>, 8.</note> Loe here, and loe there, and know his Kingdome to be within, and feel the Scepter of it, which is Righteouſneſs, ſmiting at the feet of that glorious Image, which in your Comprehenſions is ſet up, but muſt be daſhed in pieces by the ſtone cut out of the Mountain without hands, which is ſtumbled at, ſet at nought and rejected of your builders, as being the
+<pb n="5" facs="tcp:30737:3"/>light <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the world, that lighteth every one that comes into the world; which light declared, you account a low mean thing, and a fancy, or ſome thing the is inſufficient to ſalvation, without a further light. But this I ſay unto you,
+<note place="margin">Iohn 1.</note> and teſtifie in the Lord, that his height you cannot comprehend, who is far above all powers of darkneſs, and was from the begining with God, by whom all things was made and do conſiſt, whoſe name is called the Word of God, which is the life and light of men ſhining in darkneſs (though thereby not comprehen<g ref="char:EOLhyphen"/>ded) which was teſtified in due time, and became fleſh and dwelt amongſt the Saints, and they beheld his glory as of the only begotten Son of God, and what they heard and ſaw, they Witneſſed forth, and we know that their witneſs is true, who teſtified of him that he is the true light that lighteth every man that cometh into the world, and there is not any beſides him that makes manifeſt the deeds of darkneſs, or can lead out therefrom: So all that expect or hold our another light then that which lighteth every man, and deny its ſufficiency, are in the fancy, ex<g ref="char:EOLhyphen"/>alted and puffed up in their knowledge and wiſdome, with which they know not the Scriptures, nor the power of the Lord Ieſus Chriſt,
+<note place="margin">Iohn 8.21. 1 Pet. 2.4. Pſa. 118.22. 1 Iohn 1.7.</note> who is the light of the world, ſufficient to lead out of darkneſs, for he that follows him, ſhall not abide therein, but have the light of life; and here is the ſtone which the builders re<g ref="char:EOLhyphen"/>ject, made the head of the corner, and is a pretious ſure foundation to all them that believe and walk in his light, who are witneſſes of the vertue of his blood (which by vain talkers is made a cloak for ſin) waſhing and cleanſing from all ſin, &amp; of his fulneſs, who is able to ſave to the uttermoſt, have we received power to be<g ref="char:EOLhyphen"/>come the ſons of God, in that obedience and righteouſneſs which is perfect, where all that be found are juſtified, which righteouſneſs is revealed from faith to faith, in all them that believe in the light which manifeſts and condemns ſin in the fleſh, with which light, all you that ſtumble at it, are ſeen to come ſhort of the righte<g ref="char:EOLhyphen"/>ouſneſs of God, which makes a man righteous, and are ſhut out of the Covenant of grace, and light wherein ſalvation, and the power againſt ſin is placed; yet left without excuſe in that, light is come into the world, lighting every man (and you ſay you ſee) in which light the grace of God that bringeth ſalvation hath appeared unto all men, and there is your condemnation that abide in darkneſs,
+<note place="margin">Iohn 3.19, 2<gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Titus 2.11.</note> that light is come, and grace hath appeared, in which power againſt ſin is freely tendered, and yet darkneſs rather loved, and lived in, becauſe of evill deeds, and the free grace of God into wantonneſs, is turned by all of you that live in the ungodlineſs, and follow after the worldly luſts (which the Saints are taught to deny.) And you are the murmurers, complainers, and ſlothfull ſervants,
+<note place="margin">Iſa. 55.2, 3, Acts 7.51.</note> which fooliſhly would charge the fault upon God, as though he did not draw nor give power againſt ſin, when as he hath freely given him for a witneſs to the people, in whom all power and fulneſs dwells, and by his ſpirit hath ſtriven with you ever ſince you began to yeeld the members of you bodies ſervants to unrighteouſneſs, for which you have often been checked in ſecret, and felt the ſpirit moving to purity, contrary to your wills; but how often ye have reſiſted the holy ſpirit, and quenched his mo<g ref="char:EOLhyphen"/>tions, let the light of your conſciences judge, ye ſtiffneckned, and uncircumciſed in hearts and ears? how will you be able to ſtand when the Lord ſhall viſit upon you the evill of your doings, who have a form of godlineſs, but denyes the pow<g ref="char:EOLhyphen"/>er which overcomes ſin; how deeply are you fallen into the Enemies ſnare, who
+<pb n="6" facs="tcp:30737:4"/>ownes his power to keep you in ſin, and cannot ſee nor own the ſpirit and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ower of God, that would lead you out from it, though it be a Reprover of you, my <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ul even laments your captivity? how is the whole Head become ſick, and the who<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> heart faint? how are you ſcattered in your imaginations, and driven from moun<g ref="char:EOLhyphen"/>tain to hills, which be dry and barren? how is your beauty and glory withered, and your wiſe men gone backward, and their knowledge become fooliſhneſs, and their language confounded? How do you reel to and fro, and ſtagger like a drun<g ref="char:EOLhyphen"/>ken man? how are you groping in the dark to finde him whom your ſouls longs after? how do your eyes fail, whilſt your expectations are without, looking for glorious dayes, and a power to come, but when you know not, but as you ima<g ref="char:EOLhyphen"/>gine and conceive, from the promiſes written in Scripture, which imaginations and conceivings blindes the eye (that ſhould apply the promiſes to their right ob<g ref="char:EOLhyphen"/>ject) and leads the minde outward into groundleſs hopes, which are mixed with doubt and uncertainties; and whilſt you follow ſuch blinde guides as your imagi<g ref="char:EOLhyphen"/>nations and conceivings, which ariſe from the earthly wiſdome, which knows not the things of God, you often fall into the ditch, and are defiled by the pollutions of the world;
+<note place="margin">
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>5, 2, 3, 4.</note> and thus compaſſing your ſelves about, with the ſparks you have kin<g ref="char:EOLhyphen"/>dled, are forced to lye down in ſorrow.</p>
+            <p>And now a word to all amongſt you who ſit weeping by the Rivers of Babylon, and have honeſt deſires after God and his righteouſneſs, whom my bowels yearnes over, and ſounds towards you, that you may not any longer be toſſed with the ſleights of men, nor feed on their airy Notions, which gives you not the leaſt ſtrength againſt ſin, but draws out your minds without, to look at Chriſt at a di<g ref="char:EOLhyphen"/>ſtance from you, and his appearance in power to come hereafter, though he be near unto every one of you,
+<note place="margin">
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.3.20. <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 10.6, 7, 8</note> reproving in the gate or door of your hearts, whereat the minde goes forth into vanity, even, as ſaith the righteouſneſs which is of faith. The Word is neare you in your hearts, and in your mouths, the Word of Faith which we preach, and this is the ſame Word which was from the beginning, preached by the Apoſtles, and witneſſed to be living and abiding for ever, ingrafted and able to ſave the ſoul; and this is it vvhich diſcerns the thoughts and intents of your hearts, and bears witneſs againſt every vain thought, idle word, and froward ungodly way, which your own wills that are not free, but bound to vanity, chuſeth; therefore from your own wiſdom, labours and ſelf-works (which be all wicked) ceaſe; and ſtand ſtill in the Light of that engraf<g ref="char:EOLhyphen"/>ted Word, (of which the Scriptures teſtifie) which is able to ſave your ſouls; ſo may your blind eyes be opened, and you brought into a true ſenſe of your conditions, to ſee how you have walked in unpleaſant places; and that notwithſtanding all your knowledge and profeſſion, all is not right in the inward, but corruption ſtill lodg<g ref="char:EOLhyphen"/>eth in the heart as a Partition-Wall, ſeparating you from God; and to do good of your ſelves have no underſtanding nor ability, but for ever might have periſhed in this ſtate, if God in his everlaſting love had not given his ſon a light into the world to manifeſt and lead out of this darkneſs. So in the Light (which ſhews you fin and inability in ſelf to come out of it) wait,
+<note place="margin">
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or. 1.4.</note> and you will feel in your ſelves the ſentence of death and condemnation upon the firſt man, which is of the earth, earthly; and by the operation of Gods power which is manifeſt in the light, you will feel deſires begotten and moving in your ſouls after righteouſneſs, which mo<g ref="char:EOLhyphen"/>tions
+<pb n="7" facs="tcp:30737:4"/>is the Fathers drawing in his love that you may not periſh,
+<note place="margin">Ezek. 33.11. Iames 1.10.</note> but come unto Chriſt which is the light and life; and this is the will of God which begets by the word of truth both to will and do, according to his good pleaſure: Therefore be<g ref="char:EOLhyphen"/>ware of continuing in ſtiff neckedneſs, leaſt you be found fighters againſt God, and reſiſters of his will, as they are who periſh in their ſin; but while it is called to day,
+<note place="margin">Phi. 2.13.</note> hear him that ſpeaks from heaven, whoſe voice ſhakes the heavens and the earth, who is the good ſhepherd, &amp; calls unto you that have gone aſtray;
+<note place="margin">Heb. 12.25 26.</note> therefore harden not your hearts, but wait in ſpirit to hear and know his voice who teſtifies againſt all ſin and calls after him out of the conformity and love of this world and whoſoever will be his diſciples, muſt ſell all, deny themſelves,
+<note place="margin">Mark 12.21.</note> and take up his croſs daily and in obedience follow him: This is that which you yet want, and makes the differ<g ref="char:EOLhyphen"/>ence between you and us, and is the ground of the enmities ſtanding, and ſin pre<g ref="char:EOLhyphen"/>vailing over you; therefore who amongſt you is weary and heavy laden therewith, and would be his diſciples, conſult not with fleſh and blood, nor give way to that nature which ſtumbles at the croſs, and ſeeks to ſave its own life in the delights and pleaſures of the fleſh; and to keep in the union, love and unpure friendſhip of the world, which is enmity to God, and whoſoever will be its friend, is Gods enemy;
+<note place="margin">Iam. 4.4. Ioh. 2.15</note> profeſs what you will that love the world, the love of the Father is not in you; therefore do not love it, nor the things that be in it, neither fear any outward loſſes nor ſuffering that you ſhall meet with in your ſeparation from your former compa<g ref="char:EOLhyphen"/>nions, nor the frowns nor oppoſitions of men,
+<note place="margin">Matt. 10.37, 38. Luk. 9.23. 1 Cor. 1.8.</note> for if you count any thing too deer to part with, that you may win Chriſt, you are not worthy of him; but let ſelf (in which the inability to do good lodgeth) be wholly denied by you, and take up the daily croſs to your wills and luſts, that wars againſt your ſouls, which croſs is the power of God in all that are ſaved, which crucifies to the world, and taking it up, and enduring of it, you will come to witneſs the fleſh crucified with its affections and luſts, and the Partition-wall broken down, and that which lets taken out of the way by the Lamb of God, in whom dwelleth the fulneſs both of wiſdom and pow<g ref="char:EOLhyphen"/>er, which together with him is freely given to all that ask not amiſs, but waits in ſpirit to know him revealed, and his life through death made manifeſt,
+<note place="margin">Col. 1.27. 1 Ioh. 4.4.</note> which o<g ref="char:EOLhyphen"/>pens the myſtery that hath been hid from ages, Chriſt in you the hope of glory, who is greater then he that is in the world, and gives victory and dominion over it, as it was in the beginning, and this ſalvation is witneſſed and freely is tendered unto you in the Covenant of Light, Life and Power, in which waiting to learn of him who is meek and low in heart; his holy arm you will come to ſee not ſhortned that it cannot ſave, but ſtretched out to take you by the hand, &amp; lead you by a way that you have not known, in which you will come to ſee the wonders of the Lord, and the works of his hands brought forth out of bondage to corruption, and poſ<g ref="char:EOLhyphen"/>ſeſs the life of that which you profeſs in words.</p>
+            <pb n="8" facs="tcp:30737:5"/>
+            <p> Now being warned, take heed of hardning your hearts againſt the Lord by con<g ref="char:EOLhyphen"/>tinuing in ſin, and reſting in the outward knowledge of theſe things from what you have read in Scriptures, for that is not as you ought to know them, which if you do,
+<note place="margin">Gen. 6.3.</note> your viſitation will paſs over, and the Spirit of the Lord ceaſe ſtriving, by which he would ſanctifie and gather you into his fold; and then will the things belonging to your peace be hid from your eyes, and you ſhall deſire to ſee one of the dayes of the Son of man and ſhall not ſee it; and though you be not gathered yet ſhall he be glorious,
+<note place="margin">Act. 28.28</note> and the Gentiles will hear his ſalvation, and many ſhall come from the Eaſt, Weſt, North and South, and ſit down together in the Kingdom of God, and your ſelves ſhall be ſhut out who wil not hear. So he that hath an ear let him hear, and come forth, for the time is now at hand; and I am clear of your blood at that day, who in love to your ſouls have ſent you a warning, commending it to your conſciences in the ſight of God, where I look to be made manifeſt when the book is opened,
+<note place="margin">2 Cor. 4.2 3, &amp;c.</note> and till then am willing to bear your reproaches, and be accounted your enemy for declaring the truth.</p>
+            <closer>
+               <dateline>
+                  <date>The 14 day of the 6 moneth, 1656.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>The End.</trailer>
+      </body>
+   </text>
+</TEI>
